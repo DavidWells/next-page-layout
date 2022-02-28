@@ -1,5 +1,5 @@
 [build]  
-  publish = "build-example/.next"
+  publish = "example/.next"
   command = "npm run build-example"
   
 [[plugins]]
